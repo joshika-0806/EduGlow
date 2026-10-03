@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+ven/
+backend/ven/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.cache/
+frontend/.eslintcache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
